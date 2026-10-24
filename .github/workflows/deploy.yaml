@@ -3,7 +3,7 @@ name: Deploy AI Aircraft Maintenance Platform
 on:
   push:
     branches:
-      - test
+      - main
 
 jobs:
 
